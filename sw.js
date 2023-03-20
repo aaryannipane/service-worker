@@ -1,6 +1,6 @@
-var GHPATH = '/github-page-pwa';
-var APP_PREFIX = 'gppwa_';
-var VERSION = 'version_002';
+var GHPATH = '/service-worker';
+var APP_PREFIX = 'arnwa_';
+var VERSION = 'version_003';
 var URLS = [    
   `${GHPATH}/`,
   `${GHPATH}/index.html`,
